@@ -1,7 +1,7 @@
+@import url(./vendor/normalize.css);
 @import url(./page/page.css);
 @import url(./page/rotation/rotation.css);
 @import url(./page/header/header.css);
-@import url(./vendor/normalize.css);
 @import url(./page/logo/_place/logo_place_header.css);
 @import url(./page/header/__title/header__title.css);
 @import url(./page/header/__subtitle/header__subtitle.css);
